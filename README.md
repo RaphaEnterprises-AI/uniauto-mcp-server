@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/raphaenterprises-ai-uniauto-mcp-server-badge.png)](https://mseep.ai/app/raphaenterprises-ai-uniauto-mcp-server)
+
 # UniAuto MCP Server
 
 <p align="center">
